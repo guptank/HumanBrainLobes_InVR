@@ -1,5 +1,5 @@
 # Presentation of Human Brain in VR Environment
-This Blender file was presented at the European Researchers Night 2023. The animation showcases a detailed human brain, derived from the human atlas, within a Virtual Reality (VR) environment.
+This Blender file was presented at the European Researchers Night 2023. The animation showcases a detailed human brain, derived from the human atlas, within a Virtual Reality (VR) environment. A blender rendered video is added.
 
 The animation highlights various regions of the brain, including the frontal, temporal, parietal, occipital, cerebellum, and hippocampus. The camera rotates around the brain, allowing the viewer to observe these different areas coming together. Eventually, the user is transported inside the brain for an immersive experience, visualizing it from within.
 
